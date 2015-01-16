@@ -5,4 +5,7 @@ I'm having fun and a bit of self-education by breaking down MMMonkey's VGA scanl
 
 MMMonkey's circuit: http://www.mmmonkey.co.uk/console/other/vga-scanlines.htm
 
+At the moment I'm experimenting with the video buffer output (GND or Hi-Z).
+
+
 Schematic created with TinyCAD
