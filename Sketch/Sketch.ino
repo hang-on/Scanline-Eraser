@@ -15,7 +15,7 @@ void setup(){
   pinMode(PROBE_PIN, INPUT);
   pinMode(LED_PIN, OUTPUT);
 
-  digitalWrite(PROBE_PIN, HIGH); // Activate internal 10K pull-up resistor on probe pin
+  digitalWrite(PROBE_PIN, HIGH); // Activate internal pull-up resistor on probe pin
 
 }
 
